@@ -9,7 +9,7 @@
   "dependencies": {
     "aws-serverless-express": "^3.3.6",
     "aws-xray-sdk": "^2.3.3",
-    "elasticsearch": "^15.5.0",
+    "elasticsearch": "^16.7.3",
     "express": "^4.17.1",
     "http-aws-es": "^6.0.0",
     "jimp": "^0.6.4",
