@@ -10,7 +10,7 @@
     "aws-xray-sdk": "^2.3.3",
     "elasticsearch": "^15.5.0",
     "http-aws-es": "^6.0.0",
-    "jimp": "^0.6.4",
+    "jimp": "^0.22.0",
     "jsonwebtoken": "^8.5.1",
     "middy": "^0.25.0",
     "source-map-support": "^0.5.11",
