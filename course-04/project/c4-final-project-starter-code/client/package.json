@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^1.6.4",
+    "axios": "^1.7.5",
     "dateformat": "^3.0.3",
-    "immutability-helper": "^3.0.0",
+    "immutability-helper": "^3.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.0",
-    "semantic-ui-css": "^2.4.1",
+    "react-scripts": "^5.0.1",
+    "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.0.3",
     "styled-components": "^5.3.0"
   },
@@ -23,7 +23,7 @@
     "@types/react-router-dom": "^5.1.8",
     "@types/styled-components": "^5.1.11",
     "auth0-js": "^9.16.2",
-    "axios": "^1.6.4",
+    "axios": "^1.7.5",
     "typescript": ">=3.8.0"
   },
   "scripts": {
