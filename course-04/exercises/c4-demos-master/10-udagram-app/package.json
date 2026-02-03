@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "aws-xray-sdk": "^2.2.0",
+    "aws-xray-sdk": "^2.5.0",
     "aws-serverless-express": "^3.3.6",
     "elasticsearch": "^15.4.1",
     "express": "^4.16.4",
